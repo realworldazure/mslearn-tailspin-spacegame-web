@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mrdarrenjrobinsonsubs0465/Space%20Game/_apis/build/status/realworldazure.mslearn-tailspin-spacegame-web%20(1)?branchName=main)](https://dev.azure.com/mrdarrenjrobinsonsubs0465/Space%20Game/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
